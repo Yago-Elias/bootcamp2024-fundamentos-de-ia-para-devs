@@ -48,6 +48,15 @@ Mostra o estado dos arquivos do repositório local.
 ```
 $ git status
 ```
+Adiciona o(s) arquivo(s) `nome-do-arquivo` para fazer o commit.
+```
+$ git add nome-do-arquivo
+```
+Salva o estado do(s) arquivo(s) e adiciona um comentário com a opção `-m`.
+```
+$ git commit -m"cometario"
+```
+
 
 ## Referências
 - [Digital Innovation One](https://www.dio.me)
