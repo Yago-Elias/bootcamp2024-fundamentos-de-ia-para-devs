@@ -1,7 +1,7 @@
 
 # DIO | Passos iniciais com Git e GitHub
 
-Repositório para armazenar resumos sobre Git e GitHub do curdo de versionamento de código da [Digital Innovation One](https://www.dio.me/).
+Diretório para armazenar resumos sobre Git e GitHub do curdo de versionamento de código da [Digital Innovation One](https://www.dio.me/).
 
 ## 📚 Documentação
 - [Documentação Git](https://git-scm.com/doc)
